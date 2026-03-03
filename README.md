@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Jesús Villa. I'm a software developer in training. i'm currently working on a ATM simulator and a scientific calculator. I'm passionate about soccer and technology. Did you know that i know valetina
+My name is Jesús Villa. I'm a software developer in training. i'm currently working on a ATM simulator and a scientific calculator. I'm passionate about soccer and technology. Did you know that i know valentina
 <!--
 **Ocean4blue/Ocean4blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
